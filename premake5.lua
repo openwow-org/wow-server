@@ -4,3 +4,4 @@ workspace "wow-server"
    configurations { "Debug", "Release" }
 
 include ("Source/GRUNT/GRUNT.lua")
+include ("Source/RealmConnection/RealmConnection.lua")
